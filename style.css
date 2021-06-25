@@ -7,13 +7,13 @@
   }
   .card-home {
     left: 50%!important;
-    top: 175px!important;
+    top: 300px!important;
     transform: translateX(-50%);
   }
   .description {
       left: 50%!important;
       transform: translateX(-50%);
-      top: 75px!important;
+      top: 150px!important;
   }
   .carousel {
     width: 100%!important;
@@ -32,6 +32,11 @@
     width: 286px;
     height: 190px;
 }
+.nav {
+  height: 10vh;
+  display: flex;
+  align-items: center;
+}
 .description {
   position: absolute;
   left: 130px;
@@ -46,6 +51,12 @@
   font-size: 18px;
   font-weight: bold;
   border-radius: 15px;
+}
+.milestone-logo {
+  width: 50px;
+  height: 50px;
+  margin-left: 25px;
+  margin-right: 25px;
 }
 .description-about-us {
   height: 15vh;
@@ -73,8 +84,16 @@
   height: 70vh;
 }
 .latin-america-wallpaper {
-  height: 95vh;
+  height: 80vh;
   width: 100%;
+}
+.footer {
+  height: 10vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: #212529;
+  color: white;
 }
 .nav-item a {
   text-decoration: none;
