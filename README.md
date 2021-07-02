@@ -75,6 +75,8 @@ Navbar ![Navbar](navbar-screenshot.png)
 <br>
 Footer ![Footer](footer-screenshot.png)
 <br>
+Home ![Home](homepage-screenshot.png)
+<br>
 Prices ![Prices](prices-screenshot.png)
 <br>
 About Us ![About](about-us-screenshot.png)
