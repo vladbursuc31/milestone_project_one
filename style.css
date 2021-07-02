@@ -2,6 +2,12 @@
   .card-list {
     flex-direction: column !important;
   }
+  .form-details {
+    display: none!important;
+  }
+  .contact-form {
+    justify-content: center!important;
+  }
   .card {
     margin: 50px 0;
   }
