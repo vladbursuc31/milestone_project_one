@@ -61,3 +61,10 @@ Happy coding!
 ### Wireframes
 
 [Desktop](desktop-home-page.png)
+[Tablet](tablet-home-page.png)
+[Mobile](mobile-home-page.png)
+[Contact Page (all devices)](contact-page-all-devices.png)
+[Prices Page (all devices)](prices-page-all-devices.png)
+
+#### Screenshots
+Navbar ![Navbar](navbar-screenshot.png)
